@@ -6,7 +6,7 @@ in case it's wanted to combine all in one EXE file like I did later. (using pyin
 you can change the images through
 the file : bg_images.py
 
-![Image Alt text](GUI-Vigenere-cipher-file-encryption/326927727-2b92666a-d44a-4bb0-acba-07a3e4d32bf9.png)
+![Image Alt text](https://github.com/mohamedwaleed77/GUI-Vigenere-cipher-file-encryption/blob/main/326927727-2b92666a-d44a-4bb0-acba-07a3e4d32bf9.png)
 
 
  
